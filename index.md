@@ -85,12 +85,12 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 <dl>
 <dt>Name</dt>
 <dd>Godzilla</dd>
+<br>
 <dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>1988年5月</dd>
+<br>
+<dt>好きな色</dt>
+<dd>青</dd>
 </dl>
 
 
