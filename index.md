@@ -1,90 +1,8 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-
-
-
-### Definition lists can be used with HTML syntax.
-
+# 自己紹介
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>toms3776c</dd>
 <br>
 <dt>Born</dt>
 <dd>1988年5月</dd>
@@ -92,5 +10,25 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 <dt>好きな色</dt>
 <dd>青</dd>
 </dl>
+
+
+# スキルセット
+
+|	種別	|	スキル等	|	実務経験年数	|
+|	:-:	|	:-:	|	:-:	|
+|	サーバー	|	Windows Server 2008(R2)/2012(R2)/2016	|	5年以上	|
+|		|	Ubuntu	|	なし(趣味で利用)	|
+|	DB	|	SQL Server 2008(R2)/2012/2014/2016	|	5年以上	|
+|		|	Oracle 10g/12c	|	5年以上	|
+|		|	MySQL	|	なし(趣味で利用)	|
+|		|	PostgreSQL	|	なし(趣味で利用)	|
+|	仮想化	|	VMware	|	１年	|
+|		|	Hyper-V	|	なし(趣味で利用)	|
+|	開発	|	VBA	|	10年以上	|
+|		|	C#	|	1年	|
+|		|	VB.NET	|	1年	|
+|		|	VB6	|	1年	|
+|		|	SQL(Transact-SQL)	|	10年以上	|
+|		|	PL/SQL	|	1年	|
 
 
